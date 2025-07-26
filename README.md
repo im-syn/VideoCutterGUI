@@ -1,5 +1,6 @@
 # 🎬 SYN Video Cutter
-<img width="1247" height="1037" alt="image" src="https://github.com/user-attachments/assets/cd0a9390-24ed-44a6-adec-5ec40e40398f" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/6b95fb7d-3775-476c-bda6-3a27acd590f8" />
+
 
 A professional, modern GUI application for splitting videos into smaller segments with precision and ease.
 
@@ -11,6 +12,7 @@ A professional, modern GUI application for splitting videos into smaller segment
 ## 📖 Overview
 
 **SYN Video Cutter** is a powerful, user-friendly video splitting tool that allows you to cut large videos into smaller, manageable segments. Whether you're preparing content for social media, creating video tutorials, or organizing your video library, this tool provides professional-grade video processing with an intuitive interface.
+<img width="1247" height="1037" alt="image" src="https://github.com/user-attachments/assets/cd0a9390-24ed-44a6-adec-5ec40e40398f" />
 
 ### ✨ Key Features
 
