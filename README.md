@@ -7,7 +7,7 @@ A professional, modern GUI application for splitting videos into smaller segment
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 ![PyQt5](https://img.shields.io/badge/PyQt5-latest-green.svg)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-required-red.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) 
 
 ## 📖 Overview
 
